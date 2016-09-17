@@ -1,0 +1,95 @@
+﻿Output File
+Server
+Input
+Output
+[valid port number]
+Waiting for connection...
+[invalid port number]
+Port number is larger than maxium/Invalid port number
+
+Client
+System Status
+Input
+Command type
+Output
+Set up Client
+
+[IP address]
+Valid/invalid IP address
+Please input server port.
+
+[port number]
+Invalid address 
+Connection refused
+
+[port number]
+Invalid IP address
+Name or service unknown
+Please try other server, bye! 
+
+
+[port number]
+Valid IP and Port
+Connecting with server. Your IP  is [IP:PORT]
+Client processing
+p2p -h
+Valid command
+[help document]
+
+[ILLEGAL COMMAND]
+Invalid command
+Invalid command. Try 'p2p -h' for more help
+
+[COMMAND]
+Disconnect
+Cannot connect to server. Please try again
+ready to connect
+Please input host ip address
+
+p2p -r [ FILEPATH]
+Valid file path and not exist in server index
+This file have been registered successfully.
+
+p2p -r [ FILEPATH]
+Invalid file path
+Invalid file path in this client. Please check your file path
+
+p2p -r [ FILEPATH]
+Registered file
+You have registered this file. Before you registered this file, you need cancel this file from server.
+
+p2p -f [KEYWORK]
+Matched files
+FILENAME IP PATH
+filename     ip:port path
+...
+
+p2p -f [KEYWORK]
+No matched files
+FILENAME IP PATH
+
+P2p -o [IP:PORT PATH]>[SAVEPATH]
+Valid path 
+valid save path
+[PATH]>[SAVEPATH] complete
+
+P2p -o [IP:PORT PATH]>[SAVEPATH]
+Invalid  path 
+Invalid path in requested peer
+
+P2p -o [IP:PORT PATH]>[SAVEPATH]
+Invalid save path
+This is a invalid save path. Please input right path.
+
+P2p -q
+Valid command
+Bye!
+Performance Testing
+P2p -Rtest
+Valid
+Test files have been registered. 
+
+P2p -Rdownload
+Valid
+Download testing complete.
+

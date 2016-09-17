@@ -1,0 +1,187 @@
+> Test_register
+0:00:46.739221
+Input command:
+> Test_lookup
+0:00:29.250123
+Input command:
+> Test_obtain 172.31.31.0:6666
+0:00:02.099274
+
+1 client
+
+------------------------------------------------------
+> Test_register
+0:00:46.442390
+Input command:
+> Test_lookup
+0:00:33.877414
+Input command:
+> Test_obtain 172.31.18.90:6666    
+0:00:06.620137
+
+======================================================
+> Test_register
+0:01:06.404729
+Input command:
+> Test_lookup
+0:00:31.785047
+Input command:
+> Test_obtain 172.31.31.0:6666 
+0:00:06.794234
+
+2 clients
+
+------------------------------------------------------
+> Test_register
+0:00:58.924427
+Input command:
+> Test_lookup
+0:00:47.172490
+Input command:
+> Test_obtain 172.31.17.61:6666
+
+=======================================================
+> Test_register
+0:01:14.836617
+Input command:
+> Test_lookup
+0:00:48.387368
+Input command:
+> 1 0.test
+172.31.17.61:6666/home/ubuntu/PA3-Client/0.test
+172.31.31.0:6666/home/ubuntu/PA3-Client/0.test
+172.31.18.90:6666/home/ubuntu/PA3-Client/0.test
+172.31.17.60:6666/home/ubuntu/PA3-Client/0.test
+
+Input command:
+> Test_obtain 172.31.31.0:6666
+0:00:06.512406
+
+=======================================================
+> Test_register
+0:00:42.979847
+Input command:
+> Test_lookup
+0:00:57.537625
+Input command:
+> 1 0.test
+172.31.17.61:6666/home/ubuntu/PA3-Client/0.test
+172.31.31.0:6666/home/ubuntu/PA3-Client/0.test
+172.31.18.90:6666/home/ubuntu/PA3-Client/0.test
+172.31.17.60:6666/home/ubuntu/PA3-Client/0.test
+
+Input command:
+> Test_obtain 172.31.18.90:6666
+0:00:05.857133
+
+========================================================
+> Test_register
+0:00:45.694836
+Input command:
+> Test_lookup
+0:00:52.375266
+Input command:
+> 1 0.test
+172.31.17.61:6666/home/ubuntu/PA3-Client/0.test
+172.31.31.0:6666/home/ubuntu/PA3-Client/0.test
+172.31.18.90:6666/home/ubuntu/PA3-Client/0.test
+172.31.17.60:6666/home/ubuntu/PA3-Client/0.test
+
+Input command:
+> Test_obtain 172.31.17.60:6666
+0:00:10.667575
+
+4 clients
+
+---------------------------------------------------------
+> Test_register
+0:00:47.156950
+Input command:
+> Test_lookup
+0:01:25.176409
+Input command:
+> 1 0.test   
+172.31.17.61:6666/home/ubuntu/PA3-Client/0.test
+172.31.18.232:6666/home/ubuntu/PA3-Client/0.test
+172.31.18.231:6666/home/ubuntu/PA3-Client/0.test
+172.31.18.230:6666/home/ubuntu/PA3-Client/0.test
+172.31.18.233:6666/home/ubuntu/PA3-Client/0.test
+172.31.31.0:6666/home/ubuntu/PA3-Client/0.test
+172.31.18.90:6666/home/ubuntu/PA3-Client/0.test
+172.31.17.60:6666/home/ubuntu/PA3-Client/0.test
+
+Input command:
+> Test_obtain 172.31.17.60:6666
+0:00:07.565236
+
+========================================================
+> Test_register
+0:01:06.762493
+Input command:
+> Test_lookup
+0:01:23.132716
+Input command:
+> Test_obtain 172.31.18.90:6666
+0:00:05.013025
+
+=========================================================
+> Test_register
+0:01:10.279103
+Input command:
+> Test_lookup
+0:01:22.752596
+Input command:
+> Test_obtain 172.31.31.0:6666
+0:00:06.712348
+
+=========================================================
+> Test_register
+0:00:45.161732
+Input command:
+> Test_lookup
+0:01:30.853922
+Input command:
+> Test_obtain 172.31.18.233:6666
+0:00:05.573292
+
+=========================================================
+> Test_register
+0:01:02.398201
+Input command:
+> Test_lookup
+0:01:22.551888
+Input command:
+> Test_obtain 172.31.18.230:6666
+0:00:06.603540
+
+=========================================================
+> Test_register
+0:01:01.971451
+Input command:
+> Test_lookup
+0:01:34.652147
+Input command:
+> Test_obtain 172.31.18.231:6666
+0:00:11.237862
+
+=========================================================
+> Test_register
+0:00:47.923879
+Input command:
+> Test_lookup
+0:01:26.124109
+Input command:
+> Test_obtain 172.31.18.232:6666 
+0:00:14.916135
+
+=========================================================
+> Test_register
+0:01:02.565492
+Input command:
+> Test_lookup
+0:01:23.465578
+Input command:
+> Test_obtain 172.31.17.61:6666
+0:00:08.641802
+
+8 clients

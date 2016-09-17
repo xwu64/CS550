@@ -1,0 +1,63 @@
+> Test_register
+0:01:00.506484
+> Test_lookup
+0:01:39.828720
+> Test_obtain 172.31.45.110:6666/home/ubuntu/PA3-Client
+0:00:12.457169
+
+
+> Test_register
+0:00:41.836193
+> Test_lookup
+0:01:29.202067
+> Test_obtain 172.31.45.114:6666/home/ubuntu/PA3-Client
+0:00:08.803297
+
+
+> Test_register
+0:00:49.205191
+> Test_lookup
+0:01:33.676946
+> Test_obtain 172.31.45.115:6666/home/ubuntu/PA3-Client
+0:00:14.391256
+
+
+> Test_register
+0:00:48.773579
+> Test_lookup
+0:01:35.730231
+> Test_obtain 172.31.45.111:6666/home/ubuntu/PA3-Client
+0:00:08.653549
+
+> Test_register
+0:00:49.888539
+> Test_lookup
+0:01:28.243278
+> Test_obtain 172.31.45.117:6666/home/ubuntu/PA3-Client
+0:00:14.261220
+
+
+> Test_register
+0:00:41.133020
+> Test_lookup
+0:01:27.610594
+> Test_obtain 172.31.45.118:6666/home/ubuntu/PA3-Client
+0:00:12.391622
+
+
+> Test_register
+0:00:58.248710
+> Test_lookup
+0:01:36.743888
+> Test_obtain 172.31.40.87:6666/home/ubuntu/PA3-Client
+0:00:14.855891
+
+
+> Test_register
+0:00:46.431606
+> Test_lookup
+0:01:30.253830
+> Test_obtain 172.31.45.116:6666/home/ubuntu/PA3-Client
+0:00:09.359695
+
+
